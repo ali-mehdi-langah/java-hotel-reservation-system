@@ -44,5 +44,5 @@ The application displays:
 
 ## Author
 
-Ali Mehdi
+Ali Mehdi<br>
 Software Engineering Student
